@@ -7,7 +7,7 @@
 
 1. **Introductory HTML and Javascript**
 
-2.
+2. [**Basics of HTML, CSS & JS**](https://github.com/TJSOmega/reading-notes201/blob/master/Read-02.md)
 
 3.
 
